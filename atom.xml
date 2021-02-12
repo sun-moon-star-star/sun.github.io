@@ -6,7 +6,7 @@
   <link href="https://sun-moon-star-star.github.io/atom.xml" rel="self"/>
   
   <link href="https://sun-moon-star-star.github.io/"/>
-  <updated>2021-02-12T14:44:05.557Z</updated>
+  <updated>2021-02-12T14:49:26.299Z</updated>
   <id>https://sun-moon-star-star.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://sun-moon-star-star.github.io/2021/02/11/tips/"/>
     <id>https://sun-moon-star-star.github.io/2021/02/11/tips/</id>
     <published>2021-02-11T08:32:24.000Z</published>
-    <updated>2021-02-12T14:44:05.557Z</updated>
+    <updated>2021-02-12T14:49:26.299Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="backend"><a href="#backend" class="headerlink" title="backend"></a>backend</h4><h5 id="压缩"><a href="#压缩" class="headerlink" title="压缩"></a>压缩</h5><ul><li>减少javascript,css,html内容本身的大小: 删除多余的空格、注释、tab等</li><li>压缩: 压缩的开销远小于传输的开销，带宽比较贵</li></ul><h5 id="抽象"><a href="#抽象" class="headerlink" title="抽象"></a>抽象</h5><ul><li>不要过于抽象以至于代码难以阅读</li></ul><h5 id="正则表达式"><a href="#正则表达式" class="headerlink" title="正则表达式"></a>正则表达式</h5><ul><li>时间开销大</li><li>难以阅读， 难度大</li><li>适合原子的功能，不适合做过于复杂的判断</li></ul>]]></content>
+    <content type="html"><![CDATA[<h4 id="backend"><a href="#backend" class="headerlink" title="backend"></a>backend</h4><h5 id="压缩"><a href="#压缩" class="headerlink" title="压缩"></a>压缩</h5><ul><li>减少javascript,css,html内容本身的大小: 删除多余的空格、注释、tab等</li><li>压缩: 压缩的开销远小于传输的开销，带宽比较贵</li></ul><h5 id="抽象"><a href="#抽象" class="headerlink" title="抽象"></a>抽象</h5><ul><li>不要过于抽象以至于代码难以阅读</li></ul><h5 id="正则表达式"><a href="#正则表达式" class="headerlink" title="正则表达式"></a>正则表达式</h5><ul><li>时间开销大</li><li>难以阅读， 难度大</li><li>适合原子的功能，不适合做过于复杂的判断</li></ul><h5 id="微服务"><a href="#微服务" class="headerlink" title="微服务"></a>微服务</h5><ul><li>细分的时候要注意体系和理解性</li></ul>]]></content>
     
     
       
