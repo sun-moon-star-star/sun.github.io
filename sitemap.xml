@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sun-moon-star-star.github.io/2021/02/19/directio/</loc>
+    
+    <lastmod>2021-02-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sun-moon-star-star.github.io/about/index.html</loc>
     
     <lastmod>2021-02-19</lastmod>
@@ -117,6 +124,13 @@
   
   <url>
     <loc>https://sun-moon-star-star.github.io/tags/zhao/</loc>
+    <lastmod>2021-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sun-moon-star-star.github.io/tags/io/</loc>
     <lastmod>2021-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
