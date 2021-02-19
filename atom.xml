@@ -6,7 +6,7 @@
   <link href="https://sun-moon-star-star.github.io/atom.xml" rel="self"/>
   
   <link href="https://sun-moon-star-star.github.io/"/>
-  <updated>2021-02-19T02:14:16.861Z</updated>
+  <updated>2021-02-19T09:10:47.758Z</updated>
   <id>https://sun-moon-star-star.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://sun-moon-star-star.github.io/2021/02/19/questions/"/>
+    <id>https://sun-moon-star-star.github.io/2021/02/19/questions/</id>
+    <published>2021-02-19T09:10:30.306Z</published>
+    <updated>2021-02-19T09:10:47.758Z</updated>
+    
+    <content type="html"><![CDATA[<p>在文件系统中，也有类似的缓存。如果不想使用任何缓存，应该怎么做？如果调用mmap，使用了多少缓存？如果调用系统调用open + read，使用了多少缓存？如果调用fopen + fread，又使用了多少缓存？</p><p>管理节点通过udp心跳的方式感知数据节点是否可用，而计算节点通过tcp长链接的方式和数据节点交互。二者看到的状态是否存在不一致？如果是，你会如何解决？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在文件系统中，也有类似的缓存。如果不想使用任何缓存，应该怎么做？如果调用mmap，使用了多少缓存？如果调用系统调用open + read，使用了多少缓存？如果调用fopen + fread，又使用了多少缓存？&lt;/p&gt;
+&lt;p&gt;管理节点通过udp心跳的方式感知数据节点是否可用，</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>HTTP 协议</title>
