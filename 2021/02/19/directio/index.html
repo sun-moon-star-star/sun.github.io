@@ -30,7 +30,7 @@
 <meta property="og:image" content="https://github.com/sun-moon-star-star/sun-moon-star-star.github.io/tree/master/images/md/directio2.png">
 <meta property="og:image" content="https://github.com/sun-moon-star-star/sun-moon-star-star.github.io/tree/master/images/md/directio2.png">
 <meta property="article:published_time" content="2021-02-19T09:13:33.000Z">
-<meta property="article:modified_time" content="2021-02-19T10:19:40.337Z">
+<meta property="article:modified_time" content="2021-02-19T10:20:18.488Z">
 <meta property="article:author" content="sun-moon-star-star">
 <meta property="article:tag" content="io">
 <meta name="twitter:card" content="summary">
@@ -403,7 +403,7 @@
 <p>fd = open(pathname, O_WRONLY | O_SYNC);</p>
 <p>作用：调用open后，每个write调用会自动将文件数据和元数据刷新到磁盘上，即按照Synchronized IO file integrity completion的要求执行写操作。</p>
 <h5 id="有无O-SYNC性能对比"><a href="#有无O-SYNC性能对比" class="headerlink" title="有无O_SYNC性能对比"></a>有无O_SYNC性能对比</h5><p><img src="https://github.com/sun-moon-star-star/sun-moon-star-star.github.io/tree/master/images/md/directio.png"></p>
-<img src="https://github.com/sun-moon-star-star/sun-moon-star-star.github.io/tree/master/images/md/directio.png">
+<img src="https://github.com/sun-moon-star-star/sun-moon-star-star.github.io/tree/master/images/md/directio.png"/>
 
 <ul>
 <li><p>采用O_SYNC标志（或者频繁调用fsync(), fdatasync()或sync()）对性能影响极大。</p>
@@ -415,7 +415,7 @@
 </ul>
 <h4 id="IO缓冲层次关系"><a href="#IO缓冲层次关系" class="headerlink" title="IO缓冲层次关系"></a>IO缓冲层次关系</h4><p>先总结一下stdio函数库和内核采用的缓冲这两级缓冲，然后用图说明两层缓冲机制和各种缓冲类型的控制机制。</p>
 <p><img src="https://github.com/sun-moon-star-star/sun-moon-star-star.github.io/tree/master/images/md/directio2.png"></p>
-<img src="https://github.com/sun-moon-star-star/sun-moon-star-star.github.io/tree/master/images/md/directio2.png">
+<img src="https://github.com/sun-moon-star-star/sun-moon-star-star.github.io/tree/master/images/md/directio2.png"/>
 
 <ul>
 <li>首先，通过stdio库将用户数据传递到stdio缓冲区，该缓冲区位于用户态内存区。</li>
