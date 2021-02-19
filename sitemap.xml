@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sun-moon-star-star.github.io/2021/02/11/tips/</loc>
+    <loc>https://sun-moon-star-star.github.io/2021/02/19/http/</loc>
     
-    <lastmod>2021-02-12</lastmod>
+    <lastmod>2021-02-19</lastmod>
     
   </url>
   
   <url>
     <loc>https://sun-moon-star-star.github.io/2021/02/10/mozi-xiushen/</loc>
     
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-19</lastmod>
     
   </url>
   
   <url>
     <loc>https://sun-moon-star-star.github.io/2021/02/10/liuliangluzhihehuifang/</loc>
     
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sun-moon-star-star.github.io/2021/02/11/tips/</loc>
+    
+    <lastmod>2021-02-12</lastmod>
     
   </url>
   
@@ -74,11 +81,32 @@
 
   <url>
     <loc>https://sun-moon-star-star.github.io/</loc>
-    <lastmod>2021-02-13</lastmod>
+    <lastmod>2021-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://sun-moon-star-star.github.io/tags/http-net-protocol/</loc>
+    <lastmod>2021-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sun-moon-star-star.github.io/tags/replay-test-refactor/</loc>
+    <lastmod>2021-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sun-moon-star-star.github.io/tags/note/</loc>
+    <lastmod>2021-02-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 
   
